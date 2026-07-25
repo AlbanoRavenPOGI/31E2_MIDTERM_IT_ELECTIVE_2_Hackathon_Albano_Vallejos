@@ -6,35 +6,62 @@ namespace RSVPSystem.Controllers
 {
     public class EventController : Controller
     {
-        // GET: Event/CreateEventPage
+        private bool IsAdmin()
+        {
+            return HttpContext.Session.GetString("Role") == "Admin";
+        }
+
         [HttpGet]
         public IActionResult CreateEventPage()
         {
+            if (!IsAdmin())
+                return RedirectToAction("Login", "Account");
+
             return View();
         }
 
-        // POST: Event/Create
         [HttpPost]
         public IActionResult Create(EventModel model)
         {
+            if (!IsAdmin())
+                return RedirectToAction("Login", "Account");
+
             if (ModelState.IsValid)
             {
                 model.Id = DataStore.Events.Count + 1;
                 DataStore.Events.Add(model);
+
                 TempData["SuccessMessage"] = "Event created successfully!";
+
                 return RedirectToAction("Dashboard", "Home");
             }
+
             return View("CreateEventPage", model);
         }
 
-        // GET: Event/RsvpList
         public IActionResult RsvpList()
         {
-            var rsvpList = DataStore.Rsvps;
-            return View(rsvpList);
+            if (!IsAdmin())
+                return RedirectToAction("Login", "Account");
+
+            return View(DataStore.Rsvps);
         }
 
-        // POST: Submit Guest Response
+        public IActionResult InvitationList()
+        {
+            return View(DataStore.Events);
+        }
+
+        public IActionResult Invitation(int id)
+        {
+            var invitation = DataStore.Events.FirstOrDefault(x => x.Id == id);
+
+            if (invitation == null)
+                return NotFound();
+
+            return View(invitation);
+        }
+
         [HttpPost]
         public IActionResult SubmitRsvp(RsvpModel model)
         {
@@ -42,10 +69,11 @@ namespace RSVPSystem.Controllers
             {
                 model.Id = DataStore.Rsvps.Count + 1;
                 DataStore.Rsvps.Add(model);
+
                 TempData["SuccessMessage"] = "Thank you for responding!";
-                return RedirectToAction("Dashboard", "Home");
             }
-            return RedirectToAction("Dashboard", "Home");
+
+            return RedirectToAction("Invitation", new { id = model.EventId });
         }
     }
 }

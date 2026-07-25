@@ -1,78 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\event\\invitation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\event\\invitation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\event\\invitationlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\event\\invitationlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\event\\rsvplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\event\\rsvplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\event\\createeventpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\event\\createeventpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\event\\createeventpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\event\\createeventpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\desktop\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\event\\rsvplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\event\\rsvplist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|c:\\users\\student\\source\\repos\\31e2_midterm_it_elective_2_hackathon_albano_vallejos\\rvspsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA18F75F-BEFC-4456-9630-30E4BE44875F}|RVSPSystem.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,15 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -98,7 +102,23 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -106,7 +126,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -121,31 +141,53 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invitation.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\Invitation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Invitation.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\Invitation.cshtml*",
+              "RelativeToolTip": "Views\\Event\\Invitation.cshtml*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T03:57:48.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "InvitationList.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\InvitationList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\InvitationList.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\InvitationList.cshtml*",
+              "RelativeToolTip": "Views\\Event\\InvitationList.cshtml*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwEcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-25T03:55:38.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-25T03:29:59.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-25T03:24:03.907Z",
               "EditorCaption": ""
@@ -154,97 +196,100 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Dashboard.cshtml",
               "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwFIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwJcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-25T02:55:55.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-25T02:53:56.91Z"
+              "WhenOpened": "2026-07-25T02:53:56.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-25T02:52:57.503Z"
+              "WhenOpened": "2026-07-25T02:52:57.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Account\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwFAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-25T02:47:46.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:46:43.918Z"
+              "WhenOpened": "2026-07-25T02:46:43.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "EventModel.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\EventModel.cs",
               "RelativeDocumentMoniker": "Models\\EventModel.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\EventModel.cs",
               "RelativeToolTip": "Models\\EventModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-25T02:44:51.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-25T02:43:27.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,102 +298,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RsvpList.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\RsvpList.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\RsvpList.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\RsvpList.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\RsvpList.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\RsvpList.cshtml",
               "RelativeToolTip": "Views\\Event\\RsvpList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-25T03:07:11.474Z"
+              "WhenOpened": "2026-07-25T03:07:11.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-25T02:48:00.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-25T03:24:17.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Models\\LoginModel.cs",
               "RelativeToolTip": "Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-25T02:44:34.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Data\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Data\\Data.cs",
               "RelativeDocumentMoniker": "Data\\Data.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Data\\Data.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Data\\Data.cs",
               "RelativeToolTip": "Data\\Data.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T03:05:16.173Z"
+              "WhenOpened": "2026-07-25T03:05:16.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\EventController.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\EventController.cs",
-              "RelativeToolTip": "Controllers\\EventController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDIAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Controllers\\EventController.cs*",
+              "RelativeToolTip": "Controllers\\EventController.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:44:02.672Z"
+              "WhenOpened": "2026-07-25T02:44:02.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "CreateEventPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\CreateEventPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\CreateEventPage.cshtml",
               "RelativeDocumentMoniker": "Views\\Event\\CreateEventPage.cshtml",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\CreateEventPage.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\Views\\Event\\CreateEventPage.cshtml",
               "RelativeToolTip": "Views\\Event\\CreateEventPage.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBYAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-25T02:48:26.304Z"
+              "WhenOpened": "2026-07-25T02:48:26.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwDcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-07-25T02:56:41.407Z"
+              "WhenOpened": "2026-07-25T02:56:41.407Z",
+              "EditorCaption": ""
             }
           ]
         }
