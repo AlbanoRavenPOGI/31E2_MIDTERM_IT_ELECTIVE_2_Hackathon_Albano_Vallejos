@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcxTl7DW25A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Althea\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos_Abadilla\\RVSPSystem\\RVSPSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Althea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Althea\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Althea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Althea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
