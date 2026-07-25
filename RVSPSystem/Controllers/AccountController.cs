@@ -7,20 +7,35 @@ namespace RSVPSystem.Controllers
         [HttpGet]
         public IActionResult Login()
         {
+            if (HttpContext.Session.GetString("Role") == "Admin")
+                return RedirectToAction("Dashboard", "Home");
+
+            if (HttpContext.Session.GetString("Role") == "User")
+                return RedirectToAction("InvitationList", "Event");
+
             return View();
         }
 
         [HttpPost]
         public IActionResult Login(string username, string password)
         {
-            // Simple validation demo check
-            if (!string.IsNullOrEmpty(username) && !string.IsNullOrEmpty(password))
+            if (username == "admin" && password == "admin123")
             {
                 HttpContext.Session.SetString("User", username);
+                HttpContext.Session.SetString("Role", "Admin");
+
                 return RedirectToAction("Dashboard", "Home");
             }
 
-            ViewBag.Error = "Invalid credentials. Please try again.";
+            if (username == "user" && password == "user123")
+            {
+                HttpContext.Session.SetString("User", username);
+                HttpContext.Session.SetString("Role", "User");
+
+                return RedirectToAction("InvitationList", "Event");
+            }
+
+            ViewBag.Error = "Invalid username or password.";
             return View();
         }
 

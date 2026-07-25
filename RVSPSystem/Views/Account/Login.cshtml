@@ -2,33 +2,79 @@
     ViewData["Title"] = "Login";
 }
 
-<div class="row justify-content-center align-items-center style="min-height: 70vh;">
+<div class="row justify-content-center align-items-center" style="min-height:70vh;">
     <div class="col-md-5 col-lg-4">
         <div class="card shadow-lg border-0 rounded-4">
             <div class="card-body p-4 p-sm-5">
+
                 <div class="text-center mb-4">
-                    <div class="mb-2">
-                        <i class="fa-solid fa-champagne-glasses fa-3x text-primary"></i>
-                    </div>
-                    <h3 class="fw-bold">RSVP Event System</h3>
-                    <p class="text-muted small">Wedding • Birthday • Christening</p>
+                    <i class="fa-solid fa-calendar-check fa-3x text-primary mb-3"></i>
+
+                    <h3 class="fw-bold">
+                        RSVP Event System
+                    </h3>
+
+                    <p class="text-muted">
+                        Admin & User Login
+                    </p>
                 </div>
 
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger">
+                        @ViewBag.Error
+                    </div>
+                }
+
                 <form asp-action="Login" method="post">
+
                     <div class="form-floating mb-3">
-                        <input type="text" class="form-control" id="username" name="Username" placeholder="Username" required />
-                        <label for="username"><i class="fa-solid fa-user me-2"></i>Username</label>
+
+                        <input name="username"
+                               class="form-control"
+                               placeholder="Username"
+                               required />
+
+                        <label>Username</label>
+
                     </div>
 
                     <div class="form-floating mb-4">
-                        <input type="password" class="form-control" id="password" name="Password" placeholder="Password" required />
-                        <label for="password"><i class="fa-solid fa-lock me-2"></i>Password</label>
+
+                        <input type="password"
+                               name="password"
+                               class="form-control"
+                               placeholder="Password"
+                               required />
+
+                        <label>Password</label>
+
                     </div>
 
-                    <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold rounded-3 shadow-sm">
-                        Login <i class="fa-solid fa-right-to-bracket ms-1"></i>
+                    <button class="btn btn-primary w-100">
+
+                        Login
+
                     </button>
+
                 </form>
+
+                <hr />
+
+                <small class="text-muted">
+
+                    <strong>Admin</strong><br />
+                    Username: admin<br />
+                    Password: admin123
+
+                    <br /><br />
+
+                    <strong>User</strong><br />
+                    Username: user<br />
+                    Password: user123
+
+                </small>
+
             </div>
         </div>
     </div>

@@ -6,6 +6,11 @@ namespace RSVPSystem.Controllers
     {
         public IActionResult Dashboard()
         {
+            if (HttpContext.Session.GetString("Role") != "Admin")
+            {
+                return RedirectToAction("Login", "Account");
+            }
+
             return View();
         }
     }

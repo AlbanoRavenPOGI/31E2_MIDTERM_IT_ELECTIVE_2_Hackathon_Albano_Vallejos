@@ -1,26 +1,45 @@
 ﻿@using RSVPSystem.Data
+
 @{
     ViewData["Title"] = "Dashboard";
 }
 
 @if (TempData["SuccessMessage"] != null)
 {
-    <div class="alert alert-success alert-dismissible fade show rounded-3 shadow-sm mb-4" role="alert">
-        <i class="fa-solid fa-circle-check me-2"></i>@TempData["SuccessMessage"]
-        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    <div class="alert alert-success alert-dismissible fade show">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
     </div>
 }
 
 <div class="d-flex justify-content-between align-items-center mb-4">
+
     <div>
+<<<<<<< HEAD
         <h2 class="fw-bold m-0">Welcome Admin 👋</h2>
         <p class="text-muted m-0">Manage your events and live guest RSVP updates.</p>
+=======
+        <h2 class="fw-bold">
+            Welcome Admin 👋
+        </h2>
+
+        <p class="text-muted">
+            Manage your invitations and RSVP responses.
+        </p>
+>>>>>>> bb2af7a7b8fb9d8e6a084d6f8c0dc345a16abc6c
     </div>
-    <a asp-controller="Event" asp-action="CreateEventPage" class="btn btn-primary rounded-3 px-3">
-        <i class="fa-solid fa-plus me-1"></i> New Event
+
+    <a asp-controller="Event"
+       asp-action="CreateEventPage"
+       class="btn btn-primary">
+
+        New Event
+
     </a>
+
 </div>
 
+<<<<<<< HEAD
 <div class="row g-3 mb-4">
     <div class="col-md-6 col-lg-4">
         <div class="card border-0 shadow-sm rounded-4 bg-primary text-white p-3">
@@ -30,22 +49,45 @@
                     <h2 class="fw-bold mb-0">@DataStore.Events.Count</h2>
                 </div>
                 <i class="fa-solid fa-calendar-days fa-2x opacity-50"></i>
+=======
+<div class="row mb-4">
+
+    <div class="col-md-6">
+
+        <div class="card bg-primary text-white shadow">
+
+            <div class="card-body">
+
+                <h5>Total Events</h5>
+
+                <h2>@DataStore.Events.Count</h2>
+
+>>>>>>> bb2af7a7b8fb9d8e6a084d6f8c0dc345a16abc6c
             </div>
+
         </div>
+
     </div>
-    <div class="col-md-6 col-lg-4">
-        <div class="card border-0 shadow-sm rounded-4 bg-success text-white p-3">
-            <div class="d-flex justify-content-between align-items-center">
-                <div>
-                    <h6 class="text-white-50 text-uppercase fw-bold mb-1">Total RSVPs Received</h6>
-                    <h2 class="fw-bold mb-0">@DataStore.Rsvps.Count</h2>
-                </div>
-                <i class="fa-solid fa-users fa-2x opacity-50"></i>
+
+    <div class="col-md-6">
+
+        <div class="card bg-success text-white shadow">
+
+            <div class="card-body">
+
+                <h5>Total RSVPs</h5>
+
+                <h2>@DataStore.Rsvps.Count</h2>
+
             </div>
+
         </div>
+
     </div>
+
 </div>
 
+<<<<<<< HEAD
 <div class="row g-4">
     <div class="col-md-6 col-lg-4">
         <div class="card h-100 border-0 shadow-sm rounded-4 hover-shadow transition">
@@ -54,29 +96,86 @@
                 <h4 class="card-title fw-bold">Create Event</h4>
                 <p class="card-text text-muted">Setup weddings, birthdays, or christening events easily.</p>
                 <a asp-controller="Event" asp-action="CreateEventPage" class="btn btn-outline-primary w-100 rounded-3">Open Form</a>
+=======
+<div class="row">
+
+    <div class="col-md-4 mb-3">
+
+        <div class="card shadow h-100">
+
+            <div class="card-body text-center">
+
+                <i class="fa-solid fa-calendar-plus fa-3x text-primary mb-3"></i>
+
+                <h4>Create Event</h4>
+
+                <p>Create a new invitation.</p>
+
+                <a asp-controller="Event"
+                   asp-action="CreateEventPage"
+                   class="btn btn-outline-primary w-100">
+
+                    Open
+
+                </a>
+
+>>>>>>> bb2af7a7b8fb9d8e6a084d6f8c0dc345a16abc6c
             </div>
+
         </div>
+
     </div>
 
-    <div class="col-md-6 col-lg-4">
-        <div class="card h-100 border-0 shadow-sm rounded-4 hover-shadow transition">
-            <div class="card-body text-center p-4">
-                <div class="mb-3 text-success"><i class="fa-solid fa-clipboard-user fa-3x"></i></div>
-                <h4 class="card-title fw-bold">RSVP List</h4>
-                <p class="card-text text-muted">View live attendee lists and guest numbers.</p>
-                <a asp-controller="Event" asp-action="RsvpList" class="btn btn-outline-success w-100 rounded-3">View Guest List</a>
+    <div class="col-md-4 mb-3">
+
+        <div class="card shadow h-100">
+
+            <div class="card-body text-center">
+
+                <i class="fa-solid fa-users fa-3x text-success mb-3"></i>
+
+                <h4>RSVP List</h4>
+
+                <p>View guest responses.</p>
+
+                <a asp-controller="Event"
+                   asp-action="RsvpList"
+                   class="btn btn-outline-success w-100">
+
+                    Open
+
+                </a>
+
             </div>
+
         </div>
+
     </div>
 
-    <div class="col-md-6 col-lg-4">
-        <div class="card h-100 border-0 shadow-sm rounded-4 hover-shadow transition">
-            <div class="card-body text-center p-4">
-                <div class="mb-3 text-danger"><i class="fa-solid fa-right-from-bracket fa-3x"></i></div>
-                <h4 class="card-title fw-bold">Logout</h4>
-                <p class="card-text text-muted">Safely end your session.</p>
-                <a asp-controller="Account" asp-action="Logout" class="btn btn-outline-danger w-100 rounded-3">Logout</a>
+    <div class="col-md-4 mb-3">
+
+        <div class="card shadow h-100">
+
+            <div class="card-body text-center">
+
+                <i class="fa-solid fa-right-from-bracket fa-3x text-danger mb-3"></i>
+
+                <h4>Logout</h4>
+
+                <p>End your session.</p>
+
+                <a asp-controller="Account"
+                   asp-action="Logout"
+                   class="btn btn-outline-danger w-100">
+
+                    Logout
+
+                </a>
+
             </div>
+
         </div>
+
     </div>
+
 </div>

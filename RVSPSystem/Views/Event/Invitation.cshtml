@@ -1,0 +1,75 @@
+﻿@model RSVPSystem.Models.EventModel
+
+@{
+    ViewData["Title"] = "Invitation";
+}
+
+<div class="row justify-content-center">
+
+    <div class="col-lg-8">
+
+        <div class="card shadow-lg border-0 rounded-4">
+
+            <div class="card-body p-5">
+
+                <div class="text-center">
+
+                    @if (Model.EventType == "Wedding")
+                    {
+                        <h1>💍 Wedding Invitation</h1>
+                    }
+
+                    else if (Model.EventType == "Birthday")
+                    {
+                        <h1>🎂 Birthday Invitation</h1>
+                    }
+
+                    else
+                    {
+                        <h1>👶 Christening Invitation</h1>
+                    }
+
+                    <hr />
+
+                    <h2 class="fw-bold">
+
+                        @Model.Title
+
+                    </h2>
+
+                    <h5 class="text-muted">
+
+                        @Model.EventDate.ToString("MMMM dd, yyyy")
+
+                    </h5>
+
+                </div>
+
+                <div class="mt-4">
+
+                    <p>
+
+                        @Model.Description
+
+                    </p>
+
+                </div>
+
+                <div class="mt-4">
+
+                    <a asp-action="InvitationList"
+                       class="btn btn-secondary">
+
+                        Back
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

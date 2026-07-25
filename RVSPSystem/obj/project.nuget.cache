@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vC1hP6XZsYM=",
   "success": true,
   "projectFilePath": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
+=======
+  "dgSpecHash": "Lyby5LciiAY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
+>>>>>>> bb2af7a7b8fb9d8e6a084d6f8c0dc345a16abc6c
   "expectedPackageFiles": [],
   "logs": []
 }
