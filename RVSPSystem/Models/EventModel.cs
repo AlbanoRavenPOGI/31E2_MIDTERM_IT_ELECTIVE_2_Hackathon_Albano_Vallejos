@@ -10,7 +10,7 @@ namespace RSVPSystem.Models
         public string Title { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Event type is required")]
-        public string EventType { get; set; } = "Wedding"; // Wedding, Birthday, Christening
+        public string EventType { get; set; } = "Wedding"; 
 
         [Required(ErrorMessage = "Host Name is required")]
         public string HostName { get; set; } = string.Empty;
@@ -31,7 +31,6 @@ namespace RSVPSystem.Models
 
         public string Description { get; set; } = string.Empty;
 
-        // Dynamic image handler based on wwwroot/images
         public string ImagePath
         {
             get
@@ -59,7 +58,7 @@ namespace RSVPSystem.Models
         [EmailAddress]
         public string Email { get; set; } = string.Empty;
 
-        public string Status { get; set; } = "Attending"; // Attending, Declined, Maybe
+        public string Status { get; set; } = "Attending";
 
         [Range(1, 10, ErrorMessage = "Guests count must be between 1 and 10")]
         public int GuestCount { get; set; } = 1;
