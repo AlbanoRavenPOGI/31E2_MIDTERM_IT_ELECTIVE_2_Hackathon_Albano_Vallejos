@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RVSPSystem"
+    "\\RVSPSystem",
+    "\\RVSPSystem\\Views",
+    "\\RVSPSystem\\Views\\Home"
   ],
-  "SelectedNode": "\\RVSPSystem\\Program.cs",
+  "SelectedNode": "\\RVSPSystem\\Views\\Home\\Dashboard.cshtml",
   "PreviewInSolutionExplorer": false
 }

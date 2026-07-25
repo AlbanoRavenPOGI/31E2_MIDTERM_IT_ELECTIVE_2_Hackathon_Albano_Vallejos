@@ -1,37 +1,23 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj": {}
+    "C:\\Users\\Althea\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos_Abadilla\\RVSPSystem\\RVSPSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj": {
+    "C:\\Users\\Althea\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos_Abadilla\\RVSPSystem\\RVSPSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Althea\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos_Abadilla\\RVSPSystem\\RVSPSystem.csproj",
         "projectName": "RVSPSystem",
-        "projectPath": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
-        "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\obj\\",
-=======
-    "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
-        "projectName": "RVSPSystem",
-        "projectPath": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STUDENT\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\obj\\",
->>>>>>> bb2af7a7b8fb9d8e6a084d6f8c0dc345a16abc6c
+        "projectPath": "C:\\Users\\Althea\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos_Abadilla\\RVSPSystem\\RVSPSystem.csproj",
+        "packagesPath": "C:\\Users\\Althea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Althea\\source\\repos\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos_Abadilla\\RVSPSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Althea\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +30,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -58,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -74,6 +62,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.29, 8.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
