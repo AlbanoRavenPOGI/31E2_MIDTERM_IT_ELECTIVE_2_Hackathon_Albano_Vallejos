@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RVSPSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d8d59429c29ebb98f73d1b28d8d1168c4e39ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a660719fb6293745479442c851f4c57982a80652")]
 [assembly: System.Reflection.AssemblyProductAttribute("RVSPSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RVSPSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT\\Desktop\\RVSPSystem\\RVSPSystem.csproj",
+      "projectUniqueName": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
       "projectName": "RVSPSystem",
-      "projectPath": "C:\\Users\\STUDENT\\Desktop\\RVSPSystem\\RVSPSystem.csproj",
+      "projectPath": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\RVSPSystem.csproj",
       "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT\\Desktop\\RVSPSystem\\obj\\",
+      "outputPath": "C:\\Users\\STUDENT\\Downloads\\31E2_MIDTERM_IT_ELECTIVE_2_Hackathon_Albano_Vallejos\\RVSPSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

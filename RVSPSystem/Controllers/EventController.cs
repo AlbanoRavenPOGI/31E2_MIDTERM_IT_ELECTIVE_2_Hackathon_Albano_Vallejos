@@ -22,30 +22,45 @@ namespace RSVPSystem.Controllers
                 model.Id = DataStore.Events.Count + 1;
                 DataStore.Events.Add(model);
                 TempData["SuccessMessage"] = "Event created successfully!";
-                return RedirectToAction("Dashboard", "Home");
+
+                // Direct redirect to the Event details page to view Host, Place, Food & Guest RSVP form!
+                return RedirectToAction("Details", new { id = model.Id });
             }
             return View("CreateEventPage", model);
         }
 
-        // GET: Event/RsvpList
-        public IActionResult RsvpList()
+        // GET: Public Event Details & Guest RSVP Form
+        [HttpGet]
+        public IActionResult Details(int id)
         {
-            var rsvpList = DataStore.Rsvps;
-            return View(rsvpList);
+            var ev = DataStore.Events.FirstOrDefault(e => e.Id == id) ?? DataStore.Events.FirstOrDefault();
+            if (ev == null)
+            {
+                return RedirectToAction("Dashboard", "Home");
+            }
+
+            ViewBag.Rsvps = DataStore.Rsvps.Where(r => r.EventId == ev.Id).ToList();
+            return View(ev);
         }
 
-        // POST: Submit Guest Response
+        // POST: Submit Guest RSVP
         [HttpPost]
         public IActionResult SubmitRsvp(RsvpModel model)
         {
             if (ModelState.IsValid)
             {
                 model.Id = DataStore.Rsvps.Count + 1;
+                model.SubmittedAt = DateTime.Now;
                 DataStore.Rsvps.Add(model);
-                TempData["SuccessMessage"] = "Thank you for responding!";
-                return RedirectToAction("Dashboard", "Home");
+                TempData["SuccessMessage"] = "Thank you! Your RSVP response has been submitted.";
             }
-            return RedirectToAction("Dashboard", "Home");
+            return RedirectToAction("Details", new { id = model.EventId });
+        }
+
+        // GET: Admin Guest RSVP List
+        public IActionResult RsvpList()
+        {
+            return View(DataStore.Rsvps);
         }
     }
 }
